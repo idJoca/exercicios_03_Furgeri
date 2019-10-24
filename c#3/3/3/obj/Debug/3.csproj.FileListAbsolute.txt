@@ -1,0 +1,9 @@
+C:\Users\leona\OneDrive\Documentos\FATEC\2 SEM\c#\lista3\3\3\bin\Debug\3.exe.config
+C:\Users\leona\OneDrive\Documentos\FATEC\2 SEM\c#\lista3\3\3\bin\Debug\3.exe
+C:\Users\leona\OneDrive\Documentos\FATEC\2 SEM\c#\lista3\3\3\bin\Debug\3.pdb
+C:\Users\leona\OneDrive\Documentos\FATEC\2 SEM\c#\lista3\3\3\obj\Debug\_3.Form1.resources
+C:\Users\leona\OneDrive\Documentos\FATEC\2 SEM\c#\lista3\3\3\obj\Debug\_3.Properties.Resources.resources
+C:\Users\leona\OneDrive\Documentos\FATEC\2 SEM\c#\lista3\3\3\obj\Debug\3.csproj.GenerateResource.cache
+C:\Users\leona\OneDrive\Documentos\FATEC\2 SEM\c#\lista3\3\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\FATEC\2 SEM\c#\lista3\3\3\obj\Debug\3.exe
+C:\Users\leona\OneDrive\Documentos\FATEC\2 SEM\c#\lista3\3\3\obj\Debug\3.pdb
